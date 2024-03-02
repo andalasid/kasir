@@ -59,7 +59,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               },
             ),
             const SizedBox(
-              height: 40,
+              height: 50,
             ),
             ElevatedButton(onPressed: () {}, child: const Text("Check Data"))
           ],
